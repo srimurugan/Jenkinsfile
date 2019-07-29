@@ -1,8 +1,0 @@
-stackname:
-  - API_SHIPYARDMASTER:
-      STACKGITLINK: "https://github.kdc.capitalone.com/raw/EnterpriseImaging/AWSImaging_CFTs/BlueGreenAutomationChanges/Current_CFTs/Generic/AWSIMAGING-API-SHIPYARDMASTER-STACK.json"
-      ELBGITLINK: "https://github.kdc.capitalone.com/raw/EnterpriseImaging/AWSImaging_CFTs/BlueGreenAutomationChanges/Current_CFTs/ELBGeneric/AWSIMAGING-API-MESOS-ELB.json"
-
-  - ONLINE_ELASTICDATA:
-      STACKGITLINK: "https://github.kdc.capitalone.com/raw/EnterpriseImaging/AWSImaging_CFTs/BlueGreenAutomationChanges/Current_CFTs/Generic/AWSIMAGING-CORE-ELASTICSEARCH-STACK.json"
-      ELBGITLINK: "null"
